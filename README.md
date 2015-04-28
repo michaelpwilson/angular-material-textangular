@@ -16,6 +16,8 @@ No need to include anything else, ```textAngular-rangy.min.js``` and ```textAngu
 ```
 
 ```
+var app = angular.module('StarterApp', ['ngMaterial', 'textAngular']);
+
 app.controller('AppCtrl', ['$scope', function ($scope) {
   $scope.html = '';
 }]);
