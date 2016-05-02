@@ -1,0 +1,21 @@
+{
+  "name": "angular-material-textangular",
+  "homepage": "https://github.com/michaelpwilson/angular-material-textangular",
+  "authors": [
+    "Michael Wilson <michaelpwilson96@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rangy": "^1.3.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "paths": {
+        "scripts": "src/*.js",
+        "styles": "src/textAngular.css"
+    },
+    "js": [
+        "bower_components/rangy/rangy-core.js",
+        "bower_components/rangy/rangy-selectionsaverestore.js",
+        "src/textAngular-sanitize.js",
+        "src/globals.js",
+        "src/factories.js",
+        "src/DOM.js",
+        "src/validators.js",
+        "src/taBind.js",
+        "src/textAngularSetup.js",
+        "src/main.js"
+    ],
+    "css": "src/textAngular.css"
+}
